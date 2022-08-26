@@ -1,4 +1,4 @@
-# Global AI Bootcamp 2019 
+# Global AI Bootcamp 2019 Forked
 
 ### Welcome Global AI Community leaders!!
 and firstly a big **'Thank You'** for hosting a Global AI Bootcamp in your local area on Saturday 14th December 2019.
